@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
       create: (_) => SplashBloc()..add(StartEvent()),
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
-        title: '৫৭ দিন আল-কুরআন',
+        title: 'Ayat Konika Book',
         theme: ThemeData(
           colorScheme: ColorScheme.fromSeed(seedColor: Colors.white),
         ),

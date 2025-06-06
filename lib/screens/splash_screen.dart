@@ -1,5 +1,6 @@
 import 'package:al_quran_fifty_seven_days/bloc/splash/splash_bloc.dart';
 import 'package:al_quran_fifty_seven_days/bloc/splash/splash_state.dart';
+import 'package:al_quran_fifty_seven_days/screens/staring_page.dart';
 import 'package:al_quran_fifty_seven_days/utils/assets.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
