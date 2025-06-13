@@ -9,7 +9,7 @@ class BookSCreen extends StatefulWidget {
 }
 
 class _BookSCreenState extends State<BookSCreen> {
-  final List<String> dayImages = [book1, book2];
+  final List<String> dayImages = [book2,book1];
 
   late PageController controller;
   int currentPage = 0;
